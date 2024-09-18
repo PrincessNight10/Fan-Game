@@ -1,6 +1,5 @@
 package juego;
 
-import javax.swing.*;
 import java.awt.*;
 
 public class Lienzo extends Canvas
